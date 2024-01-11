@@ -41,7 +41,6 @@ body{
     animation: obsani 5s linear infinite;
 }
 .gameover{
-    height: 50px;
     text-align: center;
     justify-content: center;
    /* visibility: hidden; */
