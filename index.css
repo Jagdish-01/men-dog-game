@@ -41,6 +41,10 @@ body{
     animation: obsani 5s linear infinite;
 }
 .gameover{
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
    /* visibility: hidden; */
    color: aqua;
   position: relative;
@@ -55,9 +59,10 @@ span{
     font-weight: bold;
 }
 #scorecont{
+    font-size: 20px;
     position: absolute;
     right: 45px;
-    top: 31px;
+    top: 40px;
     font-weight: bold;
     color: aqua;
     border: 3px double aqua;
